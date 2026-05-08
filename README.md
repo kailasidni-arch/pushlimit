@@ -4,7 +4,7 @@ Sebuah aplikasi web manajemen gym modern yang dibangun menggunakan PHP untuk men
 
 ## 🚀 Live Demo
 Web ini di-hosting menggunakan InfinityFree. Kamu bisa melihat tampilan live-nya di sini:
-👉 **[Link InfinityFree Kamu di Sini]**
+👉 **[(https://pushlimit.free.nf/)]**
 
 ## ✨ Fitur Utama
 - **Dynamic Content:** Menggunakan PHP untuk pengelolaan data dan halaman yang lebih fleksibel.
