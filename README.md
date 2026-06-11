@@ -4,7 +4,7 @@ A modern gym management web application built with PHP to handle dynamic content
 
 ## 🚀 Live Demo
 The project is hosted on InfinityFree. You can access the live version here:
-👉 **[Insert Your InfinityFree Link Here]**
+👉 **[(https://pushlimit.free.nf)]**
 
 ## ✨ Key Features
 - **Dynamic Content:** PHP-powered backend for flexible data management.
